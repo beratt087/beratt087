@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently working as a Backend Developer at **Basefy**
 
-- 🌱 I’m currently learning **NodeJS**
-
 - 👯 I’m looking to collaborate on **development in software**
 
-- 💬 Ask me about **React, PHP**
+- 💬 Ask me about **React, PHP, JS**
 
 - 📫 How to reach me **beratyildiz087@icloud.com**
 
